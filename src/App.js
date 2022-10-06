@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          This is staging environment
+          This is a test feature_1 merged to dev branch
         </a>
       </header>
     </div>
