@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          This is staging environment
+          This is staging environment!
         </a>
       </header>
     </div>
