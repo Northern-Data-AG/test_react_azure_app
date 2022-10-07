@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           This is a test feature_3 merged to dev branch
-          Staging environment
+          Staging environment!
         </a>
       </header>
     </div>
